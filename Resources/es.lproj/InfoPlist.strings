@@ -1,0 +1,4 @@
+/* Nombre de la app en español */
+"CFBundleDisplayName" = "Cartelera";
+"CFBundleName" = "Cartelera";
+"NSHumanReadableCopyright" = "snapsis";
